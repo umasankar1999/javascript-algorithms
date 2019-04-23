@@ -159,3 +159,4 @@ O(n)
 
 - [Wikipedia](https://en.wikipedia.org/wiki/Linked_list)
 - [YouTube](https://www.youtube.com/watch?v=njTh_OwMljA&index=2&t=1s&list=PLLXdhg_r2hKA7DPDsunoDZ-Z769jWn4R8)
+- [GeeksForGeeks] (https://www.geeksforgeeks.org/linked-list-set-1-introduction/)
